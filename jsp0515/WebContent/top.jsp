@@ -14,6 +14,7 @@
 		width: 120px; /*수정*/
 		float: left;/*왼쪽 정렬*/
 	}/*sadasfafsas*/
+	/*민영이누나*/
 	#topcont {
 		width: 100%; 
 		height: 55px;
