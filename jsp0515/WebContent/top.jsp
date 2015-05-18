@@ -10,7 +10,7 @@
 <style type="text/css">
 	#wrap #topcont #logo {
 		margin-top:10px;
-		margin-left:20px; /* 삘이왔스zz 오긴개뿔*/
+		margin-left:20px; /* 삘이왔스zz 오긴개뿔zzz*/
 		width: 120px; /*수정*/
 		float: left;/*왼쪽 정렬*/
 	}/*sadasfafsas*/
