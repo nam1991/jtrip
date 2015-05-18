@@ -9,13 +9,9 @@
 <link href="css/base.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#wrap #topcont #logo {
-<<<<<<< HEAD
 		margin-top:10px;
 		margin-left:20px; /* »âÀÌ¿Ô½ºzz ¿À±ä°³»Ôzzzfsgdfg*/
-=======
-		margin-top:10px; /*¤¼¤»¤»¤»¤»¤¼¤»¤º¤·¤±¤¤¤·*/
-		margin-left:20px; /* ¾È³ç¾È³çzzzasdasfkajgkodsahfkh*/
->>>>>>> refs/remotes/origin/ippo
+
 		width: 120px; /*¼öÁ¤*/
 		float: left;/*¿ÞÂÊ Á¤·Ä*/
 	}/*sadasfafsas*/
