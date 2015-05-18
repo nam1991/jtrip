@@ -10,12 +10,7 @@
 <style type="text/css">
 	#wrap #topcont #logo {
 		margin-top:10px;
-<<<<<<< HEAD
 		margin-left:20px; /* »âÀÌ¿Ô½ºzz ¿À±ä°³»ÔzzzfsgdfgÀá±ñ¸¸*/
-=======
-		margin-left:20px; /* »âÀÌ¿Ô½ºzz ¿À±ä°³»Ôzzasdasdasdasdasdasdasdzfsgdfg*/
->>>>>>> refs/heads/master
-
 		width: 120px; /*¼öÁ¤*/
 		float: left;/*¿ŞÂÊ Á¤·Ä*/
 	}/*sadasfafsas*/
