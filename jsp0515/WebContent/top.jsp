@@ -11,7 +11,7 @@
 	#wrap #topcont #logo {
 		margin-top:10px;
 		margin-left:20px;
-		width: 120px; /*크키크키쿠키*/
+		width: 120px; /*수정수정*/
 		float: left;/*왼쪽 정렬*/
 	}
 	#topcont {
