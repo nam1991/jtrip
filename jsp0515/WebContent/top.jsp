@@ -11,7 +11,7 @@
 	#wrap #topcont #logo {
 		margin-top:10px;
 		margin-left:20px;
-		width: 120px; 
+		width: 120px; /*크키크키쿠키*/
 		float: left;/*왼쪽 정렬*/
 	}
 	#topcont {
@@ -119,7 +119,7 @@ $(function(){
 	   editable: true,
 	   eventLimit: true, 
 	   events: [
-				<%for(int i=0){%>
+				<%for(int i=0){%> //되냐마냐
 				title: 'All Day Event',
 				start:'2015-05-01'
 				<%}%>
