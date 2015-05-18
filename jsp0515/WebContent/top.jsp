@@ -10,7 +10,7 @@
 <style type="text/css">
 	#wrap #topcont #logo {
 		margin-top:10px;
-		margin-left:20px; /* aasd*/
+		margin-left:20px; /* 寰喟寰喟六六六六六*/
 		width: 120px; /*熱薑*/
 		float: left;/*豭薹 薑溺*/
 	}/*sadasfafsas*/
