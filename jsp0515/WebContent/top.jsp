@@ -10,7 +10,7 @@
 <style type="text/css">
 	#wrap #topcont #logo {
 		margin-top:10px;
-		margin-left:20px; /* aasd*/
+		margin-left:20px; /* 삘이왔스*/
 		width: 120px; /*수정*/
 		float: left;/*왼쪽 정렬*/
 	}/*sadasfafsas*/
