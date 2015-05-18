@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script>
+	$(function(){
+		$('#name').keyup(function(){			
+			$('#target').load('idchk.jsp?name='+$(this).val());
+		});
+		
+	});		
+</script>
+</head>
+<body>
+<form action="idchk.jsp" >
+	
+	이름:<input type="text" name="name" id="name" ><br/>
+	<div id="target" name="target"> </div>
+	나이:<input type="number" na	me ="age" id= "age"><br/>
+	취미 :<br/>
+			<input type= "checkbox" name="hobby" id="hobby">축구
+			<input type= "checkbox" name="hobby" id="hobby">야구
+			<input type= "checkbox" name="hobby" id="hobby">농구
+			<input type= "checkbox" name="hobby" id="hobby">배구
+			<br/><br/>
+			<input type="submit" value="전송" id="btn1"><br/>q
+</form>
+	
+</body>
+</html>

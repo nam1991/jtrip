@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style>
+	div{width: 300px; margin: auto; background: gray;}
+</style>
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script>
+	$(function(){
+		$('#btn1').click(function() 	{
+			//버튼을 클릭했을 때 비동기식으로 ex7_load.jsp의 내용을 가져와서
+			//target에 출력하고 싶다.
+			$('#target').load("ex7_load.jsp p,span",function(){
+				$(this).children().first().css('background','green');
+				console.log("callback함수도 작동하네");
+			});
+		});
+	});	
+</script>
+</head> 
+<body>
+		<div id="target"></div>
+		<input type="button" value="Ajaxload" id="btn1">
+
+</body>
+</html>
