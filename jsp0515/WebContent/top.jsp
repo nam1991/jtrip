@@ -10,7 +10,11 @@
 <style type="text/css">
 	#wrap #topcont #logo {
 		margin-top:10px;
+<<<<<<< HEAD
 		margin-left:20px; /* 삘이왔스zz 오긴개뿔zzzfsgdfg잠깐만*/
+=======
+		margin-left:20px; /* 삘이왔스zz 오긴개뿔zzasdasdasdasdasdasdasdzfsgdfg*/
+>>>>>>> refs/heads/master
 
 		width: 120px; /*수정*/
 		float: left;/*왼쪽 정렬*/
