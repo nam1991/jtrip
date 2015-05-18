@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id="wrap">
+		<fieldset>
+			<legend>회원가입</legend>
+			<form method="post" action="memberList.jsp">
+				<table>
+					<tr>
+						<td>아이디</td>
+						<td><input type="text" name="id" id="id"></td>
+					</tr>
+					<tr>
+						<td>비밀번호</td>
+						<td><input type="password" name="pwd" id="pwd"></td>
+					</tr>
+					<tr>
+						<td>이름</td>
+						<td><input type="text" name="name" id="name"></td>
+					</tr>
+					<tr>
+						<td>성별</td>
+						<td><select name="gender" id="gender">
+							<option>선택</option>
+							<option>남자</option>
+							<option>여자</option>
+							</select>
+						</td>
+					</tr>
+					<tr><td colspan="2">
+					<input type="submit" value="가입">
+					</td></tr>
+  				</table>
+			</form>
+		</fieldset>
+	</div>
+</body>
+</html>
