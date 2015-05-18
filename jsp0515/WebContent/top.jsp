@@ -1,7 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%--올려봅시다 --%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +11,7 @@
 	#wrap #topcont #logo {
 		margin-top:10px;
 		margin-left:20px;
-		width: 120px; 
+		width: 120px; /*크키크키쿠키*/
 		float: left;/*왼쪽 정렬*/
 	}
 	#topcont {
