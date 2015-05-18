@@ -10,10 +10,10 @@
 <style type="text/css">
 	#wrap #topcont #logo {
 		margin-top:10px;
-		margin-left:20px; /* asdasdasd*/
+		margin-left:20px; /* aasd*/
 		width: 120px; /*수정*/
 		float: left;/*왼쪽 정렬*/
-	}
+	}/*sadasfafsas*/
 	#topcont {
 		width: 100%; 
 		height: 55px;
