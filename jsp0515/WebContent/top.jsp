@@ -119,7 +119,7 @@ $(function(){
 	   editable: true,
 	   eventLimit: true, 
 	   events: [
-				<%for(int i=0){%>
+				<%for(int i=0){%> //되냐마냐
 				title: 'All Day Event',
 				start:'2015-05-01'
 				<%}%>
