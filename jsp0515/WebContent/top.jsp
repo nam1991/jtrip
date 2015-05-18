@@ -9,7 +9,7 @@
 <link href="css/base.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#wrap #topcont #logo {
-		margin-top:10px;
+		margin-top:10px; /*兮六六六六兮六內仄仃中仄*/
 		margin-left:20px; /* 寰喟寰喟六六六六六*/
 		width: 120px; /*熱薑*/
 		float: left;/*豭薹 薑溺*/
