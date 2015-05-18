@@ -9,7 +9,7 @@
 <link href="css/base.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#wrap #topcont #logo {
-		margin-top:10px; /*ぜせせせせぜせずしけいし*/
+		margin-top:10px; /*ぜせせせせぜせずしけいしsadasd*/
 		margin-left:20px; /* 照括照括zzzasdasfkajgkodsahfkh*/
 		width: 120px; /*呪舛*/
 		float: left;/*図楕 舛慶*/
