@@ -10,7 +10,7 @@
 <style type="text/css">
 	#wrap #topcont #logo {
 		margin-top:10px;
-		margin-left:20px; 
+		margin-left:20px; /* asdasdasd*/
 		width: 120px; /*수정*/
 		float: left;/*왼쪽 정렬*/
 	}
